@@ -77,7 +77,7 @@ Raw Documents
 
 
 ### Project Architecture
-![Architecture](docs/screenshots/vscode_architecture.png)
+![Architecture]("C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png")
 
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
