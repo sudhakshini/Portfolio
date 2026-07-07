@@ -23,7 +23,7 @@ FinSight.AI ingests raw financial documents, processes them through a medallion 
 ---
 
 ## Architecture
-"C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png"
+
 ![alt text](image.png)
 ```
 Raw Documents
