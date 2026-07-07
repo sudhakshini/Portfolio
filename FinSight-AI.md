@@ -78,7 +78,7 @@ Raw Documents
 
 ### Project Architecture
 ![Architecture]("C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png")
-
+https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
 ### Upload Documents
