@@ -18,15 +18,43 @@ FinSight.AI ingests raw financial documents, processes them through a medallion 
 - Ask natural language questions over financial documents and get cited, grounded answers
 - Automatic anomaly detection on financial data using a trained PyTorch AutoEncoder
 - Risk classification with a weak-supervised ML model (83.3% validation accuracy)
+- Risk category scoring across Liquidity, Regulatory, Operational, Market, and Credit Risk
 - Secure multi-user access with JWT authentication
+
+---
+
+## Screenshots
+
+### Architecture
+![Architecture](assets/screenshots/architecture.png)
+
+### Financial Intelligence Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Upload Documents
+![Upload Documents](assets/screenshots/upload_documents.png)
+
+### Ask Questions (RAG Q&A)
+![Ask Questions](assets/screenshots/ask_questions.png)
+
+### Risk & Anomaly Analysis — Input
+![Risk Analysis Input](assets/screenshots/risk_analysis_input.png)
+
+### Risk & Anomaly Analysis — Results
+![Risk Analysis Results](assets/screenshots/risk_analysis_results.png)
+
+### Risk Analysis Charts
+![Risk Analysis Charts](assets/screenshots/risk_analysis_charts.png)
+
+### Risk Category Scores
+![Risk Category Scores](assets/screenshots/risk_category_scores.png)
 
 ---
 
 ## Architecture
 
-"C:\Users\sudhakshni\finsight_ai\docs\screenshots\architecture.png"
 ```
-Raw Documents
+Raw Documents (PDF, TXT, DOCX, CSV)
      │
      ▼
 ┌─────────────────────────────────────────────────┐
@@ -77,17 +105,12 @@ Raw Documents
 
 ---
 
-## Why ChromaDB over Pinecone/pgvector?
-
-ChromaDB runs embedded (no external service), eliminating infrastructure cost and complexity for a solo-built portfolio project. The production upgrade path would add Kafka for streaming, Airflow for orchestration, EMR Serverless for scale, and SageMaker for model serving.
-
----
-
 ## Key Design Decisions
 
 - **Two-stage retrieval**: Bi-encoder handles speed (top-k recall), CrossEncoder handles precision (reranking) — same pattern used in production search systems
 - **Weak labeling for risk classification**: Labeled 120 samples using heuristic rules, achieving 83.3% validation accuracy — practical approach when ground truth labels aren't available
 - **Reconstruction error thresholding**: AutoEncoder anomaly score = mean + 2 standard deviations — interpretable and tunable without complex calibration
+- **ChromaDB over Pinecone/pgvector**: Runs embedded (no external service), eliminating infrastructure cost for a solo-built portfolio project
 
 ---
 
@@ -125,7 +148,7 @@ streamlit run ui/app.py
 | ChromaDB (embedded) | Pinecone / pgvector |
 | Manual trigger | Apache Airflow DAGs |
 | EC2 t2.small | EMR Serverless |
-| Local ChromaDB | RDS PostgreSQL + pgvector |
+| Local storage | RDS PostgreSQL + pgvector |
 | Manual deploy | SageMaker endpoint |
 
 ---
