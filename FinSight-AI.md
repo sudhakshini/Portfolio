@@ -75,6 +75,47 @@ Raw Documents
 | Frontend | Streamlit |
 | Deployment | AWS EC2 t2.small, Blue-Green deployment |
 
+
+### Project Architecture
+![Architecture](docs/screenshots/vscode_architecture.png)
+
+### Streamlit App Running on EC2
+![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
+### Upload Documents
+Upload financial documents and choose a domain and document type before ingestion.
+
+![Upload Documents](docs/screenshots/upload_documents.png)
+
+### Ask Questions
+Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
+
+![Ask Questions](docs/screenshots/ask_questions.png)
+
+### Risk & Anomaly Analysis
+Paste financial text passages and run anomaly, risk, and sentiment analysis.
+
+![Risk Analysis Input](docs/screenshots/risk_analysis_input.png)
+
+Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
+
+![Risk Analysis Results](docs/screenshots/risk_analysis_results.png)
+![Risk Analysis Charts](docs/screenshots/risk_analysis_charts.png)
+
+Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
+
+![Risk Category Scores](docs/screenshots/risk_category_scores.png)
+
+### Dashboard
+Track ingested documents, questions asked, anomalies detected, and live API status.
+
+![Dashboard](docs/screenshots/dashboard.png)
+
+
+---
+
+## License
+
+*(add your license here)*
 ---
 
 ## Why ChromaDB over Pinecone/pgvector?
