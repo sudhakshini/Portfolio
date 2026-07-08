@@ -77,8 +77,7 @@ Raw Documents
 
 
 ### Project Architecture
-<<<<<<< HEAD
-![Architecture]("C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png")
+//![Architecture]("C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png")
 https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
 Assets/architecture.png
 
