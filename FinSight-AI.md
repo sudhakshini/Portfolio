@@ -83,7 +83,7 @@ Raw Documents
 ### Upload Documents
 Upload financial documents and choose a domain and document type before ingestion.
 
-![Upload Documents](docs/screenshots/upload_documents.png)
+![Upload Documents](https://github.com/sudhakshini/Portfolio/blob/main/Assets/upload_documents.png)
 
 ### Ask Questions
 Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
