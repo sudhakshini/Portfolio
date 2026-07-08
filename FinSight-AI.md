@@ -94,6 +94,7 @@ Chat with your documents — answers are grounded in retrieved passages, with so
 Paste financial text passages and run anomaly, risk, and sentiment analysis.
 
 ![Risk Analysis Input](docs/screenshots/risk_analysis_input.png)
+![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png)
 
 Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
 
