@@ -108,7 +108,7 @@ Risk is also broken down by category — liquidity, regulatory, operational, mar
 Track ingested documents, questions asked, anomalies detected, and live API status.
 
 ![Dashboard](Assets/dashboard.png)
-
+![Dashboard](https://raw.githubusercontent.com/sudhakshini/Portfolio/main/Assets/dashboard.png)
 
 ---
 
