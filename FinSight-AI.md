@@ -78,8 +78,6 @@ Raw Documents
 
 ### Project Architecture
 
-Assets/architecture.png
-
 =======
 ![Architecture](Assets/architecture.png)
 >>>>>>> 66f1c96e772d773cd6a1cc9086aa1620e0c386e4
