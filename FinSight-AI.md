@@ -88,7 +88,7 @@ Upload financial documents and choose a domain and document type before ingestio
 ### Ask Questions
 Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
 
-![Ask Questions](docs/screenshots/ask_questions.png)
+![Ask Questions]ask_questions.png
 
 ### Risk & Anomaly Analysis
 Paste financial text passages and run anomaly, risk, and sentiment analysis.
