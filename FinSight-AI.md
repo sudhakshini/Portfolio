@@ -80,23 +80,20 @@ Raw Documents
 
 =======
 ![Architecture](Assets/architecture.png)
->>>>>>> 66f1c96e772d773cd6a1cc9086aa1620e0c386e4
+
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
+
 ### Upload Documents
 Upload financial documents and choose a domain and document type before ingestion.
-
 ![Upload Documents](https://github.com/sudhakshini/Portfolio/blob/main/Assets/upload_documents.png)
 
 ### Ask Questions
 Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
-
 ![Ask Questions](Assets/ask_questions.png)
 
 ### Risk & Anomaly Analysis
 Paste financial text passages and run anomaly, risk, and sentiment analysis.
-
-![Risk Analysis Input](docs/screenshots/risk_analysis_input.png)
 ![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_input.png)
 
 Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
