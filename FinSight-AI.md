@@ -98,7 +98,7 @@ Paste financial text passages and run anomaly, risk, and sentiment analysis.
 
 Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
 
-![Risk Analysis Results]https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png
+![Risk Analysis Results](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png)
 ![Risk Analysis Charts](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png))
 
 Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
