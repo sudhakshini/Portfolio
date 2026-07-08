@@ -81,6 +81,13 @@ Raw Documents
 =======
 ![Architecture](Assets/architecture.png)
 
+### Dashboard
+Track ingested documents, questions asked, anomalies detected, and live API status.
+
+![Dashboard](Assets/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/sudhakshini/Portfolio/main/Assets/dashboard.png)
+
+
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
 
@@ -96,20 +103,19 @@ Chat with your documents — answers are grounded in retrieved passages, with so
 Paste financial text passages and run anomaly, risk, and sentiment analysis.
 ![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_input.png)
 
+### Results Scored & Flagged
 Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
 
 ![Risk Analysis Results](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png)
+
+### Risk Analysis Charts
 ![Risk Analysis Charts](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png))
 
+### Risk Category Scores
 Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
 
 ![Risk Category Scores](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_category_scores.png)
 
-### Dashboard
-Track ingested documents, questions asked, anomalies detected, and live API status.
-
-![Dashboard](Assets/dashboard.png)
-![Dashboard](https://raw.githubusercontent.com/sudhakshini/Portfolio/main/Assets/dashboard.png)
 
 ---
 
