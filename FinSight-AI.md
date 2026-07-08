@@ -78,7 +78,6 @@ Raw Documents
 
 ### Project Architecture
 
-https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
 Assets/architecture.png
 
 =======
