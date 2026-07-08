@@ -77,9 +77,7 @@ Raw Documents
 
 
 ### Project Architecture
-![Architecture]
-https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
-Assets/architecture.png
+![Architecture](Assets/architecture.png)
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
 ### Upload Documents
