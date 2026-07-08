@@ -24,7 +24,7 @@ FinSight.AI ingests raw financial documents, processes them through a medallion 
 
 ## Architecture
 
-![alt text](image.png)
+
 ```
 Raw Documents
      │
