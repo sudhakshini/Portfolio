@@ -24,7 +24,7 @@ FinSight.AI ingests raw financial documents, processes them through a medallion 
 
 ## Architecture
 
-![alt text](image.png)
+
 ```
 Raw Documents
      │
@@ -77,41 +77,46 @@ Raw Documents
 
 
 ### Project Architecture
+<<<<<<< HEAD
 ![Architecture]("C:\Users\sudhakshni\OneDrive\Desktop\projects\Portfolio\Assets\architecture.png")
 https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
 Assets/architecture.png
 
+=======
+![Architecture](Assets/architecture.png)
+>>>>>>> 66f1c96e772d773cd6a1cc9086aa1620e0c386e4
 ### Streamlit App Running on EC2
 ![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
 ### Upload Documents
 Upload financial documents and choose a domain and document type before ingestion.
 
-![Upload Documents](docs/screenshots/upload_documents.png)
+![Upload Documents](https://github.com/sudhakshini/Portfolio/blob/main/Assets/upload_documents.png)
 
 ### Ask Questions
 Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
 
-![Ask Questions](docs/screenshots/ask_questions.png)
+![Ask Questions](Assets/ask_questions.png)
 
 ### Risk & Anomaly Analysis
 Paste financial text passages and run anomaly, risk, and sentiment analysis.
 
 ![Risk Analysis Input](docs/screenshots/risk_analysis_input.png)
+![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_input.png)
 
 Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
 
-![Risk Analysis Results](docs/screenshots/risk_analysis_results.png)
-![Risk Analysis Charts](docs/screenshots/risk_analysis_charts.png)
+![Risk Analysis Results](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png)
+![Risk Analysis Charts](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png))
 
 Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
 
-![Risk Category Scores](docs/screenshots/risk_category_scores.png)
+![Risk Category Scores](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_category_scores.png)
 
 ### Dashboard
 Track ingested documents, questions asked, anomalies detected, and live API status.
 
-![Dashboard](docs/screenshots/dashboard.png)
-
+![Dashboard](Assets/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/sudhakshini/Portfolio/main/Assets/dashboard.png)
 
 ---
 
