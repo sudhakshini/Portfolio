@@ -1,3 +1,20 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DubStudio_%20AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Your%20day%2C%20beautifully%20organized&descAlignY=60&descSize=18" width="100%"/>
+
+
+
+> 🌙 **One app. Four modules. Zero backend. Fully offline.**  
+> Built independently as a personal side project outside of work hours.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sudhakshini-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+
+</div>
+
+
 # DubStudio.AI 🎬
 
 > AI-powered multilingual video dubbing and translation platform — available on Google Play.
