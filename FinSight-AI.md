@@ -78,44 +78,50 @@ Raw Documents
 
 ### Project Architecture
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Architecture]https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
 Assets/architecture.png
+=======
+>>>>>>> ab24327c35f1d5684563211561c352a70c44b2fb
 
 =======
 ![Architecture](Assets/architecture.png)
->>>>>>> 66f1c96e772d773cd6a1cc9086aa1620e0c386e4
-### Streamlit App Running on EC2
-![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
-### Upload Documents
-Upload financial documents and choose a domain and document type before ingestion.
-
-![Upload Documents](https://github.com/sudhakshini/Portfolio/blob/main/Assets/upload_documents.png)
-
-### Ask Questions
-Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
-
-![Ask Questions](Assets/ask_questions.png)
-
-### Risk & Anomaly Analysis
-Paste financial text passages and run anomaly, risk, and sentiment analysis.
-
-![Risk Analysis Input](docs/screenshots/risk_analysis_input.png)
-![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_input.png)
-
-Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
-
-![Risk Analysis Results](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png)
-![Risk Analysis Charts](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png))
-
-Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
-
-![Risk Category Scores](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_category_scores.png)
 
 ### Dashboard
 Track ingested documents, questions asked, anomalies detected, and live API status.
 
 ![Dashboard](Assets/dashboard.png)
 ![Dashboard](https://raw.githubusercontent.com/sudhakshini/Portfolio/main/Assets/dashboard.png)
+
+
+### Streamlit App Running on EC2
+![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
+
+### Upload Documents
+Upload financial documents and choose a domain and document type before ingestion.
+![Upload Documents](https://github.com/sudhakshini/Portfolio/blob/main/Assets/upload_documents.png)
+
+### Ask Questions
+Chat with your documents — answers are grounded in retrieved passages, with sources and a live risk indicator.
+![Ask Questions](Assets/ask_questions.png)
+
+### Risk & Anomaly Analysis
+Paste financial text passages and run anomaly, risk, and sentiment analysis.
+![Risk Analysis](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_input.png)
+
+### Results Scored & Flagged
+Results are scored and flagged per passage, with anomaly score charts and a risk distribution breakdown.
+
+![Risk Analysis Results](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_results.png)
+
+### Risk Analysis Charts
+![Risk Analysis Charts](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_analysis_charts.png))
+
+### Risk Category Scores
+Risk is also broken down by category — liquidity, regulatory, operational, market, and credit risk.
+
+![Risk Category Scores](https://github.com/sudhakshini/Portfolio/blob/main/Assets/risk_category_scores.png)
+
 
 ---
 
