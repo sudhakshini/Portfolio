@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FinSight_%20AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Your%20day%2C%20beautifully%20organized&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FinSight_%20AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=A%20RAG%2C%20Optimisation%20Project&descAlignY=60&descSize=18" width="100%"/>
 
 
 
