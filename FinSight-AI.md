@@ -2,16 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=FinSight_%20AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Your%20day%2C%20beautifully%20organized&descAlignY=60&descSize=18" width="100%"/>
 
-<br/>
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SharedPrefs](https://img.shields.io/badge/SharedPreferences-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live%20%F0%9F%9F%A2-brightgreen?style=for-the-badge)
-![Personal](https://img.shields.io/badge/Personal-Project-blueviolet?style=for-the-badge)
-
-<br/>
 
 > 🌙 **One app. Four modules. Zero backend. Fully offline.**  
 > Built independently as a personal side project outside of work hours.
