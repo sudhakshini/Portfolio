@@ -44,7 +44,7 @@ Most productivity apps are either too complex or scattered across multiple tools
 </tr>
 <tr>
 <td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/a1.jpeg" width="220"/></td>
-<td><img src="screenshots/home_quickaccess.jpeg" width="220"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(7).jpeg" width="220"/></td>
 </tr>
 <tr>
 <td colspan="2" align="center">
@@ -66,7 +66,7 @@ Most productivity apps are either too complex or scattered across multiple tools
 <td align="center"><b>Shopping Screen</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/shopping_list.jpeg" width="220"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(6).jpeg" width="220"/></td>
 </tr>
 <tr>
 <td align="center">
@@ -91,9 +91,9 @@ Most productivity apps are either too complex or scattered across multiple tools
 <td align="center"><b>Time Picker</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/todo_list.jpeg" width="180"/></td>
-<td><img src="screenshots/todo_newtask.jpeg" width="180"/></td>
-<td><img src="screenshots/todo_timepicker.jpeg" width="180"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(4).jpeg" width="180"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(5).jpeg" width="180"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(3).jpeg" width="180"/></td>
 </tr>
 <tr>
 <td colspan="3" align="center">
@@ -118,8 +118,8 @@ Most productivity apps are either too complex or scattered across multiple tools
 <td align="center"><b>Saved Birthdays</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/birthday_add.jpeg" width="220"/></td>
-<td><img src="screenshots/birthday_saved.jpeg" width="220"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(2).jpeg" width="220"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(8).jpeg" width="220"/></td>
 </tr>
 <tr>
 <td colspan="2" align="center">
