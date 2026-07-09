@@ -70,6 +70,34 @@ YouTube URL / Local Video
 ```
 !Architecture (![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub1.png))
 ---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub2.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub3.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub4.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub5.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub6.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub7.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub8.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub9.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub10.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub11.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub12.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub13.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub14.png))
+---
+(![Assets/dub1.png](https://github.com/sudhakshini/Portfolio/blob/main/Assets/dub15.png))
+---
 
 ## Story Video Generator
 
