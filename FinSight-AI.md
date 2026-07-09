@@ -78,12 +78,6 @@ Raw Documents
 
 ### Project Architecture
 <<<<<<< HEAD
-<<<<<<< HEAD
-![Architecture]https://github.com/sudhakshini/Portfolio/blob/main/Assets/architecture.png
-Assets/architecture.png
-=======
->>>>>>> ab24327c35f1d5684563211561c352a70c44b2fb
-
 =======
 ![Architecture](Assets/architecture.png)
 
@@ -95,7 +89,7 @@ Track ingested documents, questions asked, anomalies detected, and live API stat
 
 
 ### Streamlit App Running on EC2
-![Streamlit Terminal](docs/screenshots/streamlit_terminal.png)
+![Streamlit Terminal](https://github.com/sudhakshini/Portfolio/blob/main/Assets/ec2.png)
 
 ### Upload Documents
 Upload financial documents and choose a domain and document type before ingestion.
