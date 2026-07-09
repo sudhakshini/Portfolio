@@ -4,7 +4,7 @@
 
 
 
-> 🌙 **One app. Four modules. Zero backend. Fully offline.**  
+> 🌙 **One app. Four modules.**  
 > Built independently as a personal side project outside of work hours.
 
 <br/>
