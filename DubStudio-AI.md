@@ -68,7 +68,7 @@ YouTube URL / Local Video
          ▼
     Final MP4 output
 ```
-
+!Architecture (Assets/dub1.png)
 ---
 
 ## Story Video Generator
