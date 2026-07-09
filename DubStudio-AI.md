@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DubStudio_AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=An%20AI%20Powered%20Video%20Dubbing%20Project&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DubStudio_AI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=An%20AI%20Powered%20Video%20Dubbing%20Platform%20# DubStudio.AI 🎬&descAlignY=60&descSize=18" width="100%"/>
 
 > 🌙 **One app. Four modules.**  
 > Built independently as a personal side project outside of work hours.
