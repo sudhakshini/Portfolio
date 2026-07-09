@@ -95,7 +95,7 @@ Raw Documents
 
 
 ### Project Architecture
-<<<<<<< HEAD
+
 =======
 ![Architecture](Assets/architecture.png)
 
