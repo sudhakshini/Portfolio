@@ -43,7 +43,7 @@ Most productivity apps are either too complex or scattered across multiple tools
 <td align="center"><b>Quick Access</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/home_dashboard.jpeg" width="220"/></td>
+<td><img src="https://github.com/sudhakshini/Portfolio/blob/main/Assets/a1.jpeg" width="220"/></td>
 <td><img src="screenshots/home_quickaccess.jpeg" width="220"/></td>
 </tr>
 <tr>
@@ -161,6 +161,7 @@ Most productivity apps are either too complex or scattered across multiple tools
 <td>🎂 <b>Birthdays</b></td>
 <td>Month/day visual picker, countdown, notification bell</td>
 <td><img src="https://img.shields.io/badge/-Green-1DD1A1?style=flat-square"/></td>
+https://github.com/sudhakshini/Portfolio/blob/main/Assets/WhatsApp%20Image%202026-07-09%20at%208.19.50%20AM%20(8).jpeg
 </tr>
 </table>
 
